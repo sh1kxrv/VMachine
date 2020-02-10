@@ -1,2 +1,2 @@
 # VMachine
-Instruction Emulator for .NET
+Instructions Emulator for .NET
