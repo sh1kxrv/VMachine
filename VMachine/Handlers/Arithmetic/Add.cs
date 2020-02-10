@@ -13,7 +13,7 @@ namespace VMachine.Handlers.Arithmetic
         {
             var x = stack.VM.Pop();
             var y = stack.VM.Pop();
-            stack.VM.Push(x + y);
+            stack.VM.Push(y + x);
         }
     }
 }
